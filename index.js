@@ -1,4 +1,4 @@
-
+//speed change
 let inputDir = { x: 0, y: 0 };
 
 let speed = 15;
