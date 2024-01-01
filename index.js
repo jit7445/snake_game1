@@ -1,7 +1,7 @@
 //speed change
 let inputDir = { x: 0, y: 0 };
 
-let speed = 15;
+let speed =9;
 let score = 0;
 let lastPaintTime = 0;
 let snakeArr = [
